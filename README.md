@@ -132,4 +132,4 @@ Coding Boot Camp (C) 2016. All Rights Reserved.
 
 ### Solution
 
-[Solution.png](Images/Solution.png)
+[Solution.png](https://github.com/debbiechanca/data_journalism/blob/master/Images/Solution.PNG)
