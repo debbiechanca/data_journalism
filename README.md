@@ -132,4 +132,4 @@ Coding Boot Camp (C) 2016. All Rights Reserved.
 
 ### Solution
 
-[Solution](Images/Solution.png)
+[Solution.png](Images/Solution.png)
