@@ -129,7 +129,3 @@ Your final product will be assessed on the following metrics:
 ## Copyright
 
 Coding Boot Camp (C) 2016. All Rights Reserved.
-
-### Solution
-
-[Solution.png](https://github.com/debbiechanca/data_journalism/blob/master/Images/Solution.PNG)
